@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo ao meu Repositório Compartilhado 🤝</h1>
+<h1 align="center">Welcome to my Shared Repository 🤝</h1>
 <p>
 
 </p>
